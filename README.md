@@ -13,5 +13,5 @@ In this app, you will be creating a “choose your own adventure” game similar
 ## Output
 
 <div align="center">
-   <src= "https://user-images.githubusercontent.com/35194820/78498690-bd17d480-7786-11ea-9f2c-142f2350ed5c.gif" />
+   <image src= "https://user-images.githubusercontent.com/35194820/78498690-bd17d480-7786-11ea-9f2c-142f2350ed5c.gif" />
 </div>
